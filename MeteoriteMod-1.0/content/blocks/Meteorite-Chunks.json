@@ -1,0 +1,7 @@
+{
+	"type": "floor",
+	"name": "Meteorite",
+	"itemDrop": "Meteorite-Chunk",
+	"variants": 3,
+	"playerUnmineable": true
+}
